@@ -1,0 +1,1 @@
+# gatsby_static_guide
